@@ -6,7 +6,7 @@ screen = Screen()
 board = Turtle()
 board.speed(0)
 
-rectangle(board, 0, 0, 200, 5, "black")
+rectangle(board, 0, 0, 200, 5, "red")
 rectangle(board, 0, 0, 5, 200, "black")
 rectangle(board, 0, 195, 200, 5, "black")
 rectangle(board, 195, 0, 5, 200, "black")
